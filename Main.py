@@ -57,3 +57,5 @@ logger.addHandler(handler)
 for _ in range(5):
     logger.info('Hellow world!')
     time.sleep(5)
+
+print("\nIf working with micro architecture, it is suggested to use JSON formatting instead.")
